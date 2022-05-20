@@ -23,3 +23,7 @@ terminal go to the directory where there is the index.html and run "live-server"
 
 I'll update with new content from time to time. 
 
+# Contributors/Sponsors/Backers
+
+Thank you [Minsky](https://minsky.cc/) team, for supporting this initiative. Check their amazing work on their [Github profile](https://github.com/minskylab).
+
