@@ -1,6 +1,6 @@
 # Testing-docs
 
-I share with you all I know about software testing.
+I share with you all I know about software testing so far.
 I research different sources to complement the information with concepts.
 
 # How to see the content?
